@@ -8,21 +8,17 @@
 
 - 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
 ## Projetos Destacados
 
-### [Nome do Projeto]
+### [Hotel Descanso Garantido]
 
-Breve descrição do projeto e suas tecnologias principais.
+O projeto Hotel Descanso Garantido é um software em C para cadastro e listagem de funcionários, clientes e estadias em um sistema hoteleiro.
 
-### [Nome do Projeto]
+### [Produtivify]
 
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
+O projeto Produtivify é um software que utilizou HTML5,CSS3 e JAVASCRIPT e alguns frameworks como o boostrap e chart.js para um website de organização pessoal de 
+tarefas diárias.
 
 
 ## Linguagens de Programação:
