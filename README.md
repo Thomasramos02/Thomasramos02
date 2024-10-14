@@ -157,6 +157,8 @@ Last Edited on: 18/11/2023
 ---
 
 ## 🐍 A Snake Eating my Contributions Graph
-<p align="center">
-	<img src="https://github.com/7oSkaaa/Thomasramos02/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/Thomasramos02/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
