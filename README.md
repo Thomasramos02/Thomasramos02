@@ -12,13 +12,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <br><br>
-
 - :school: Eu sou `Estudante` na PUC Minas  
 - :technologist: Eu adoro usar Software como solução para todo `Problema`.  
 - :computer: Sou um programador competitivo no `Leetcode`, `HackerRank`.  
 - :student: Atualmente estou aprendendo `Engenharia de Software`.  
 - :nerd_face: Sempre `aprendendo coisas novas`.  
-- :thinking: Atualmente estou aberto para uma nova `oportunidade de emprego`.
+- :thinking: Atualmente estou aberto para uma nova `oportunidade de emprego`.  
+- :muscle: Eu pratico `academia`.
 
 ---
 
@@ -93,8 +93,6 @@
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
@@ -118,10 +116,8 @@
     <a href="#"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode-%23F9C24B.svg?style=plastic&logo=leetcode&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%2348B04A.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-%234B8BBE.svg?style=plastic&logo=codewars&logoColor=white" /></a>
-</p>
 
+ 
 ---
 
 ## 📊 GitHub Stats:
@@ -152,12 +148,8 @@
 
 Credit: [Thomasramos02](https://github.com/Thomasramos02)
 
-Last Edited on: 18/11/2023
+Last Edited on: 14/10/2024
 
 ---
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://raw.githubusercontent.com/Thomasramos02/7oSkaaa/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
+
