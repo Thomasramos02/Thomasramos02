@@ -176,7 +176,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thomasramos02&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Thomasramos02" /></a> </p>
 
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> My Repositories </h3></summary>
 
 ----
 
