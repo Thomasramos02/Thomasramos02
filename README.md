@@ -20,11 +20,15 @@
 - :nerd_face: Sempre `aprendendo coisas novas`.  
 - :thinking: Atualmente estou aberto para uma nova `oportunidade de emprego`.
 
+---
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"></picture> My Competitive Programming Profiles
 
 <p align="center">
 	<a href="https://leetcode.com/ThomasRamos02/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 </p>
+
+---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
 <p align="center">
@@ -33,6 +37,8 @@
 	<a href="https://www.linkedin.com/in/ThomasRamosOliveira/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/Thomasramos02/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+---
 
 ## 🛠️ My Skills
 
@@ -57,6 +63,8 @@
   </a>
 </p>
 
+---
+
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Frontend Development
 <p align="center"> 
   &emsp; 
@@ -72,6 +80,8 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
+
+---
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Software & Tools
  
@@ -90,6 +100,8 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
+---
+
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> IDEs
 <p align="center">
   &emsp;
@@ -98,44 +110,53 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
+---
+
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="50px"></picture> Competitive Programming & Problem Solving
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode-%23F9DC3E.svg?&style=plastic&logo=leetcode&logoColor=black"></a>
+    <a href="#"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode-%23F9C24B.svg?style=plastic&logo=leetcode&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=HackerRank&logoColor=white"></a>
+    <a href="#"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%2348B04A.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-BAA2B8?style=plastic&logo=Codewars&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-%234B8BBE.svg?style=plastic&logo=codewars&logoColor=white" /></a>
 </p>
+
+---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Thomasramos02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thomasramos02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasramos02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Thomasramos02&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Thomasramos02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Thomasramos02&icon=2&color=4)](https://visitcount.itsvg.in)
 
-------
+---
 
 Credit: [Thomasramos02](https://github.com/Thomasramos02)
 
 Last Edited on: 18/11/2023
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+---
 
+## 🐍 A Snake Eating my Contributions Graph
+<p align="center">
+	<img src="https://github.com/Thomasramos02/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+</p>
