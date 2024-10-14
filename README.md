@@ -26,13 +26,12 @@
 
 <br><br>
 
-- :school: Eu sou `Estudante` na Puc Minas
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Leetcode`, `HackerRank`.
-- :student: I’m currently learning `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-
+- :school: Eu sou `Estudante` na PUC Minas  
+- :technologist: Eu adoro usar Software como solução para todo `Problema`.  
+- :computer: Sou um programador competitivo no `Leetcode`, `HackerRank`.  
+- :student: Atualmente estou aprendendo `Engenharia de Software`.  
+- :nerd_face: Sempre `aprendendo coisas novas`.  
+- :thinking: Atualmente estou aberto para uma nova `oportunidade de emprego`.
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
@@ -44,7 +43,7 @@
 <p align="center">
 	<a href="mailto:Thomasramosoliveira@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Thomasramos02"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/Thomas Ramos Oliveira/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a
+	<a href="https://www.linkedin.com/in/ThomasRamosOliveira/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a
 	<a href="https://www.instagram.com/Thomasramos02/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
@@ -59,8 +58,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
-  &emsp;
-
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
@@ -85,10 +82,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
@@ -127,7 +120,7 @@
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
 </p>
 
@@ -153,7 +146,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="Thomasramos02" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomasramos02&theme=tokyonight_duo" alt="Thomasramos02" /></p>
 
 </details>
   
@@ -163,8 +156,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="Thomasramos02's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thomasramos02&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomasramos02&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Thomasramos02" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -175,7 +168,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thomasramos02&theme=github	)](https://github.com/Thomasramos02/Thomasramos02)
 
  
 </details>
@@ -184,9 +177,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thomasramos02&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Thomasramos02" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=Thomasramos02)](https://holopin.io/@Thomasramos02)
 	
 </details>
 	
@@ -206,5 +199,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/Thomasramos02/Thomasramos02/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
