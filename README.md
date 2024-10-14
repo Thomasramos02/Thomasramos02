@@ -110,80 +110,32 @@
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thomasramos02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thomasramos02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasramos02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<details>
-    <summary><h3> 🔥 Streak Stats</h3></summary>
-    ----
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomasramos02&theme=tokyonight_duo" alt="Thomasramos02" /></p>
-</details>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Thomasramos02&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-<details>
-    <summary><h3>💻 GitHub Profile Stats</h3></summary>
-    ----
-    <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="Thomasramos02's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Thomasramos02&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-        </a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomasramos02&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Thomasramos02" height="230px"/>
-        <br/>
-        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    </p>
-</details>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Thomasramos02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<details>
-    <summary>⚡ Recent GitHub Activity</summary>
-    ----
-    <a href="https://github.com/Thomasramos02/JavaExercicios">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=JavaExercicios&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    ----
-    [![Thomasramos02's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thomasramos02&theme=github)](https://github.com/Thomasramos02/Thomasramos02)
-</details>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<details>
-    <summary>:trophy: Git Profile Trophies</summary>
-    ----
-    <p align="center"> 
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=Thomasramos02&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Thomasramos02" />
-        </a> 
-    </p>
-    
-    <details>
-        <summary>My Repositories</summary>
-        ---
-        <div>
-            <p align="center">
-                <a href="https://github.com/Thomasramos02/Thomasramos02">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Thomasramos02&theme=tokyonight" alt="GitHub Stats" />
-                </a>
-                <a href="https://github.com/Thomasramos02/Web-Programming-with-JavaScript-Practice">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Web-Programming-with-JavaScript-Practice&theme=tokyonight" alt="GitHub Stats" />
-                </a>
-                <a href="https://github.com/Thomasramos02/Desenvolvimento-e-interfaces-WEB">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Desenvolvimento-e-interfaces-WEB&theme=tokyonight" alt="Desenvolvimento e interfaces WEB" />
-                </a>
-                <a href="https://github.com/Thomasramos02/Algoritmos-em-C">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Algoritmos-em-C&theme=tokyonight" alt="Algoritmos em C" />
-                </a>
-                <a href="https://github.com/Thomasramos02/Prova1--AEDS">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Prova1--AEDS&theme=tokyonight" alt="Prova1 AEDS" />
-                </a>
-                <a href="https://github.com/Thomasramos02/Questoes_maratona">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Questoes_maratona&theme=tokyonight" alt="Questões Maratona" />
-                </a>
-                <a href="https://github.com/Thomasramos02/Hotel-Descanso-Garantido">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Hotel-Descanso-Garantido&theme=tokyonight" alt="Hotel Descanso Garantido" />
-                </a>
-            </p>
-        </div>
-    </details>
+---
+[![](https://visitcount.itsvg.in/api?id=Thomasramos02&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<br/><br/>
+------
+
+Credit: [Thomasramos02](https://github.com/Thomasramos02)
+
+Last Edited on: 18/11/2023
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
