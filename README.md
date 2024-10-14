@@ -176,25 +176,39 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thomasramos02&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Thomasramos02" /></a> </p>
 
 	
-</details>
-	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
-	
+
 <div>
   <p align="center">
-	<a href="https://github.com/Thomasramos02/Thomasramos02">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Thomasramos02&theme=tokyonight" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Thomasramos02/Web-Programming-with-JavaScript-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Web-Programming-with-JavaScript-Practice&theme=tokyonight" alt="GitHub Stats" />
-</a>
+    <a href="https://github.com/Thomasramos02/Thomasramos02">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Thomasramos02&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Thomasramos02/Web-Programming-with-JavaScript-Practice">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Web-Programming-with-JavaScript-Practice&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Thomasramos02/Desenvolvimento-e-interfaces-WEB">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Desenvolvimento-e-interfaces-WEB&theme=tokyonight" alt="Desenvolvimento e interfaces WEB" />
+    </a>
+    <a href="https://github.com/Thomasramos02/Algoritmos-em-C">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Algoritmos-em-C&theme=tokyonight" alt="Algoritmos em C" />
+    </a>
+    <a href="https://github.com/Thomasramos02/Prova1--AEDS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Prova1--AEDS&theme=tokyonight" alt="Prova1 AEDS" />
+    </a>
+    <a href="https://github.com/Thomasramos02/Questoes_maratona">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Questoes_maratona&theme=tokyonight" alt="Questões Maratona" />
+    </a>
+    <a href="https://github.com/Thomasramos02/Hotel-Descanso-Garantido">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomasramos02&repo=Hotel-Descanso-Garantido&theme=tokyonight" alt="Hotel Descanso Garantido" />
+    </a>
   </p>
 </div>
 </details>
 
 </br></br>
+
 	
 	
 ## 🐍 A Snake Eating my Contributions Graph
