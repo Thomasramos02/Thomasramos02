@@ -129,14 +129,10 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Thomasramos02&icon=2&color=4)](https://visitcount.itsvg.in)
-
----
 
 Credit: [Thomasramos02](https://github.com/Thomasramos02)
 
 Last Edited on: 08/10/2025
 
----
 
 
